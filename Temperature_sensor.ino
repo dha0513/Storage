@@ -17,3 +17,6 @@ void loop() {
   Serial.println(" C");
   delay(1000);
 }
+
+
+//Redmine 확인용 주석
